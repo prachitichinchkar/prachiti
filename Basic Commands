@@ -1,0 +1,5 @@
+cal - syntax = cal[[month]year]
+Date - syntax = date
+echo - syntax = echo[option][string]
+printf - syntax = printf "No file name entered\n"
+who - syntax = who[options][filename]
